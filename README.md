@@ -1,1 +1,3 @@
 # sistemasMultimedia
+
+Proyecto de la asignatura Sistemas Multimedia en el que se desarrolla un algoritmo...
